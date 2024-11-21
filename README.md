@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kangon
+- 👀 I’m interested in learning to Program
+- 🌱 I’m currently studying embedded IT
